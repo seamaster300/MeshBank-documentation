@@ -5,11 +5,11 @@ Welcome to the MeshBank source code repository! MeshBank software enables develo
 The code is currently pre-alpha and under rapid development. Early experimenters can run a private multi-node test network to develop, deploy, and test applications.
 
 ## Resources
-  1. MeshBank website
-  2. Documentation
-  3. Blog
+  1. [MeshBank website](https://MeshBank.com)
+  2. [Documentation](README.md)
+  3. [Blog](https://MeshBank.com/blog)
   4. Slack
-  5. Whitepaper
+  5. [Whitepaper](TechnicalWhitepaper.md)
   6. [Roadmap](Roadmap.md)
 
 ## Table of contents
