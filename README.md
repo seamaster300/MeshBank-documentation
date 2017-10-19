@@ -11,6 +11,7 @@ The code is currently pre-alpha and under rapid development. Early experimenters
   4. Slack
   5. Whitepaper
   6. Roadmap
+  7. [Roadmap](roadmap.md)
 
 ## Table of contents
   1. Getting started
