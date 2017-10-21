@@ -24,7 +24,7 @@ Products:
 Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, all user interface etc.
 
 ## Phase 4 - Development
-[] Genesis of MeshBank token
+[ ] Genesis of MeshBank token
 
 
 ## Phase 5 - Implementation
