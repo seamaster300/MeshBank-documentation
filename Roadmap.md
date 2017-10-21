@@ -5,21 +5,17 @@ This document outlines the development plan from a high level and will be update
 
 ## Phase 1 - Initiation
 ### Why this project?
-
 MeshBank aims to create the most powerful infrastructure for decentralized banking applications. Publically auditable contracts create a self-regulating, decentralized network of interconnected nodes. The infrastructure provides a scaleable, reliable, decentralized network with unrivaled transaction speed and resistance to network attacks. 
 
-Is it feasible?
-
+### Is it feasible?
 Yes. Utilizing Ethereum Virtual Machine (EVM) we can run applications on the gigantic distributed computer.
 
+### Who are possible partners in the project?
 
-Who are possible partners in the project?
-
-What should the results be?
-
+### What should the results be?
 MeshBank's applications will allow token holders to earn interest on their deposits 
 
-What are the boundaries of this project?
+### What are the boundaries of this project?
 
 
 ## Phase 2 - Definition
