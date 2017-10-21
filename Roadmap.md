@@ -5,6 +5,7 @@ This document outlines the development plan from a high level and will be update
 
 ## Phase 1 - Initiation
 Why this project?
+MeshBank aims to create the most powerful infrastructure for decentralized banking applications. Publically auditable contracts create a self-regulating, decentralized network of interconnected nodes. MeshBank's infrastructure provides a scaleable, reliable, decentralized network with exceptional transaction speed and exceptional resistance to network attacks.
 
 Is it feasible?
 
@@ -19,8 +20,11 @@ What are the boundaries of this project?
 Identify project requirements:
 Preconditions
   1. legislation
+  
 Functional requirements
+
 Operational requirements
+
 Design limitations
 
 ## Phase 3 - Design
@@ -29,6 +33,8 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 
 ## Phase 4 - Development
 - [ ] Genesis of MeshBank token
+- [ ] Develop MeshBank's self regulating contracts
+- [ ] Develop Meshbank's solidity
 
 
 ## Phase 5 - Implementation
