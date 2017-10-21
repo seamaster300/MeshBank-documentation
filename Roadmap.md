@@ -15,9 +15,9 @@ Credit Card Processors, Banking institutions, Financial companies, Ecommerce pla
 
 ### What should the results be?
 1. User can send, receive, and invest their Mesh
-  a. Send
-  b. Receive
-  c. Invest
+   - Send
+   - Receive
+   - Invest
 
 ### What are the boundaries of this project?
 
