@@ -14,27 +14,19 @@ Yes. Utilizing Ethereum Virtual Machine (EVM) we can run applications on the gig
 Banking institutions, credit card processors, financial companies, ecommerce platforms
 
 ### What should the results be?
-1. User can send, receive, and invest their Mesh
-   - Send
-     - SDGFJKLSDFJKL
-   - Receive
-     - SDFJKLSDFJKL
-   - Invest
-     - sdfjklsdfjkl
+1. MeshBank's infrastructure creates a decentralized network of self regulating interconnected nodes
+2. Mobile application that allows users to send, receive, and invest on MeshBank's infrastructure
 
 ### What are the boundaries of this project?
 
 
-## Phase 2 - Definition
-Identify project requirements:
-Preconditions
-  1. legislation
+## Phase 2 - Project Requirements
   
-Functional requirements
+### Functional requirements
 
-Operational requirements
+### Operational requirements
 
-Design limitations
+### Design limitations
 
 ## Phase 3 - Design
 Products:
