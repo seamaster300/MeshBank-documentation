@@ -39,6 +39,7 @@ Products:
 Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, all user interface etc.
 
 ## Phase 4 - Development
+- [x] Hire staff
 - [ ] Genesis of MeshBank token
 - [ ] Develop MeshBank's self regulating contracts
 - [ ] Develop Meshbank's solidity
