@@ -4,11 +4,9 @@ This document outlines the development plan from a high level and will be update
 **Everything contained in this document is in draft form and subject to change at any time and provided for information purposes only. MeshBank does not gaurantee the accuracy of the information contained ni this roadmap and the information is provided "as is" with no representations or warranties, express or implied.**
 
 ## Phase 1 - Initiation
-Why this project?
-```
-MeshBank aims to create the most powerful infrastructure for decentralized banking applications. Publically auditable contracts create a self-regulating, decentralized network of interconnected nodes. The infrastructure provides a scaleable, reliable, decentralized network with unrivaled transaction speed and resistance to network attacks. 
-```
+### Why this project?
 
+MeshBank aims to create the most powerful infrastructure for decentralized banking applications. Publically auditable contracts create a self-regulating, decentralized network of interconnected nodes. The infrastructure provides a scaleable, reliable, decentralized network with unrivaled transaction speed and resistance to network attacks. 
 
 Is it feasible?
 
