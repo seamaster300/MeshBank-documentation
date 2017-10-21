@@ -23,10 +23,16 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 ## Phase 2 - Project Requirements
   
 ### Functional requirements
+What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
 
 ### Operational requirements
+These are about how to run the system. Logging, startup/shutdown controls, monitoring, resource consumption, back up, availability etc.etc.
+
+### Technical requirements
+These are about how the system is built. Which language, which OS, standards to be adhered to etc.
 
 ### Design limitations
+User interface
 
 ## Phase 3 - Design
 Products:
