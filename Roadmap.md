@@ -1,19 +1,23 @@
 # MeshBank Software Roadmap
-This document outlines the development plan from a high level and will be updated as progress is made towards beta release. It should be noted that this roadmap applies only to the blockchain related software, after phase 1 is complete, a dedicated team will build on other tools and utilities such as wallets, and block explorers.
+This document outlines the development plan from a high level and will be updated as progress is made towards beta release. It should be noted that this roadmap applies only to the blockchain related software, after phase 4 is complete, a dedicated team will build on other tools and utilities such as wallets, and block explorers.
 
 **Everything contained in this document is in draft form and subject to change at any time and provided for information purposes only. MeshBank does not gaurantee the accuracy of the information contained ni this roadmap and the information is provided "as is" with no representations or warranties, express or implied.**
 
 ## Phase 1 - Initiation
 ### Why this project?
-MeshBank aims to create the most powerful infrastructure for decentralized banking applications. Publically auditable contracts create a self-regulating, decentralized network of interconnected nodes. The infrastructure provides a scaleable, reliable, decentralized network with unrivaled transaction speed and resistance to network attacks. 
+MeshBank aims to create the most powerful infrastructure for decentralized banking applications. Publically auditable contracts create a self-regulating, decentralized network of interconnected nodes. The infrastructure provides a scaleable, reliable, decentralized network with unrivaled transaction speed and security.
 
 ### Is it feasible?
-Yes. Utilizing Ethereum Virtual Machine (EVM) we can run applications on the gigantic distributed computer.
+Yes. Utilizing Ethereum Virtual Machine (EVM) we can run applications on the gigantic distributed computer. 
 
 ### Who are possible partners in the project?
+Credit Card Processors, Banking institutions, Financial companies, Ecommerce platforms
 
 ### What should the results be?
-MeshBank's applications will allow token holders to earn interest on their deposits 
+1. User can send, receive, and invest their Mesh
+  a. Send
+  b. Receive
+  c. Invest
 
 ### What are the boundaries of this project?
 
