@@ -11,13 +11,16 @@ MeshBank aims to create the most powerful infrastructure for decentralized banki
 Yes. Utilizing Ethereum Virtual Machine (EVM) we can run applications on the gigantic distributed computer. 
 
 ### Who are possible partners in the project?
-Credit Card Processors, Banking institutions, Financial companies, Ecommerce platforms
+Banking institutions, credit card processors, financial companies, ecommerce platforms
 
 ### What should the results be?
 1. User can send, receive, and invest their Mesh
    - Send
+     - SDGFJKLSDFJKL
    - Receive
+     - SDFJKLSDFJKL
    - Invest
+     - sdfjklsdfjkl
 
 ### What are the boundaries of this project?
 
