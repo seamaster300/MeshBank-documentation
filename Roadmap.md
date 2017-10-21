@@ -5,9 +5,13 @@ This document outlines the development plan from a high level and will be update
 
 ## Phase 1 - Initiation
 Why this project?
+
 Is it feasible?
+
 Who are possible partners in the project?
+
 What should the results be?
+
 What are the boundaries of this project?
 
 
