@@ -38,6 +38,39 @@ User interface
 Products:
 Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, all user interface etc.
 
+# Founders
+### developers
+-Summary
+  -Total development team: $ 1280K/year
+  -Managers
+
+- Senior Decentralized Application (DApp) Developer $110k/year
+  - Junior DApp Developer $70k/year
+  - Junior DApp Developer $70k/year
+  - Junior DApp Developer $70k/year
+  
+- Senior Blockchain Engineer $110k/year
+  - Junior Blockchain Engineer $70k/year
+  - Junior Blockchain Engineer $70k/year
+  - Junior Blockchain Engineer $70k/year
+  
+- Ethereum (Solidity) Developer $110k/year
+  - Junior Ethereum Developer $70k/year
+  - Junior Ethereum Developer $70k/year
+  - Junior Ethereum Developer $70k/year
+ 
+- JavaScript Developer $110k/year
+  - Junior JavaScript Developer $70k/year
+  - Junior JavaScript Developer $70k/year
+  - Junior JavaScript Developer $70k/year
+### managers
+- 
+### founders
+- Me
+- CFO
+- CTO
+
+
 ## Phase 4 - Development
 - [x] Hire staff
 - [ ] Genesis of MeshBank token
