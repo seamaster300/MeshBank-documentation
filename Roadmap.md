@@ -80,9 +80,15 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 
 ## Phase 5 - Implementation
 
-## Phase 6 - Bounty
+## Phase 6 - MeshBank DAO Bounties
+### MeshBank Website
 - [ ] Github Website
-      - [ ] meshbank.com -> https://meshbank.github.io/MeshBankWeb
-- [ ] MeshBank Core 
+- [ ] Link domain meshbank.com -> https://meshbank.github.io/MeshBankWeb
+
+### MeshBank Core
+- [ ] Develop MeshBank Core
+- [ ] Implement zk-Snark's
+
+### MeshBank Wallet
 - [ ] Create wallet
-- [ ] 
+
