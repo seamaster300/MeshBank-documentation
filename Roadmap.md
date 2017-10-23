@@ -80,4 +80,9 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 
 ## Phase 5 - Implementation
 
-## Phase 6 - Follow-up
+## Phase 6 - Bounty
+### - [ ] Github Website
+      - [ ] meshbank.com -> https://meshbank.github.io/MeshBankWeb
+- [ ] MeshBank Core 
+- [ ] Create wallet
+- [ ] 
