@@ -86,9 +86,23 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 - [ ] Link domain meshbank.com -> https://meshbank.github.io/MeshBankWeb
 
 ### MeshBank Core
-- [ ] Develop MeshBank Core
-- [ ] Implement zk-Snark's
+- [ ] Create MeshBank Core
+- [ ] Create Download installer Windows
+- [ ] Create Download installer OSX
+- [ ] Create Download installer Linux
+- [ ] Provide hash file, and pgp for each download file and upload to website "/get-mesh"
+
+- [ ] Implement zk-Snark update 
 
 ### MeshBank Wallet
 - [ ] Create wallet
+- [ ] Create Download installer Windows
+- [ ] Create Download installer OSX
+- [ ] Create Download installer Linux
+- [ ] Provide hash file, and pgp for each download file and upload to website "/wallets"
+
+### MeshBank Products
+- [ ] Hardware wallet
+- [ ] ATM Machines
+- [ ] Merchant POS
 
