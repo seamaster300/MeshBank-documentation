@@ -16,7 +16,9 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 ### What should the results be?
 1. MeshBank is a decentralized autonomous organization that has real world employees that power the business. 
 2. Nodes can vote on monthly budget allocations through community self governance.
-2. Desktop application that allows users to send, receive, and invest in MeshBank's infrastructure
+3. Desktop application that allows users to send, receive, and invest in MeshBank's infrastructure (instant transactions, private "zk-snarks protocol", secure)
+4. P2P Exchange built into desktop application
+   - Support Zelle, Chase QuickPay, Cash Deposit, and US Postal Money Order
 
 ### What are the boundaries of this project?
 
