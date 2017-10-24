@@ -14,8 +14,9 @@ Yes. Utilizing Ethereum Virtual Machine (EVM) we can run applications on the gig
 Banking institutions, credit card processors, financial companies, ecommerce platforms
 
 ### What should the results be?
-1. MeshBank's infrastructure creates a decentralized network of self regulating interconnected nodes
-2. Mobile application that allows users to send, receive, and invest on MeshBank's infrastructure
+1. MeshBank is a decentralized autonomous organization that has real world employees that power the business. 
+2. Nodes can vote on monthly budget allocations through community self governance.
+2. Desktop application that allows users to send, receive, and invest in MeshBank's infrastructure
 
 ### What are the boundaries of this project?
 
@@ -23,6 +24,7 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 ## Phase 2 - Project Requirements
   
 ### Functional requirements
+Digital currency
 What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
 
 ### Operational requirements
