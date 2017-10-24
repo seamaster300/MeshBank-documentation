@@ -83,6 +83,7 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 ## Phase 6 - MeshBank DAO Bounties
 ### MeshBank Website
 - [ ] Github Website
+- [ ] Create pages (get-mesh, merchants, network, resources, team, blog, evolution, lanaguage flag)
 - [ ] Link domain meshbank.com -> https://meshbank.github.io/MeshBankWeb
 
 ### MeshBank Core
@@ -100,6 +101,20 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 - [ ] Create Download installer OSX
 - [ ] Create Download installer Linux
 - [ ] Provide hash file, and pgp for each download file and upload to website "/wallets"
+
+### MeshBank DAO
+- MeshBank's allows stakeholders to vote on budget allocations. Budget requests by MeshBank's dev team will have our logo. 
+- [ ] Any user can create a proposal for 1000 USD
+      - The community budget can be spent on said proposals. Voting occurs every month at a set block.
+- [ ] Approval system:
+      - Net Votes: TotalVoteYes minus TotalVoteNo 
+        - must be greater than CountActiveMasternodes/10 --10% active masternodes
+      - Monthly Amount: Budget priority order by net votes. 
+      - proposal must be over 24 hours old
+      - proposal must be submitted 3 days before budget allocated
+- [ ] Budgets Proposals
+      - Datatable (title, owner, payment, yes, no, abstain, net votes, % of vote, monthly amount, total budget requested, actual budget allocated)
+
 
 ### MeshBank Products
 - [ ] Hardware wallet
