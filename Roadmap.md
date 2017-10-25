@@ -25,8 +25,26 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 ## Phase 2 - Project Requirements
   
 ### Functional requirements
-Digital currency
+
+  1. [MeshWallet](https://MeshBank.com)
+  2. [MeshCore](README.md)
+  3. [MeshDAO](https://MeshBank.com/blog)
+  4. [MeshDEX](https://MeshBank.com/blog)
+  5. [Whitepaper](TechnicalWhitepaper.md)
+  6. [Roadmap](Roadmap.md)
+  [Read our installation guide](#installation-guide)
+  
+  
+  1. [MeshBank website](https://MeshBank.com)
+  2. [Documentation](README.md)
+  3. [Blog](https://MeshBank.com/blog)
+  4. Slack
+  5. [Whitepaper](TechnicalWhitepaper.md)
+  6. [Roadmap](Roadmap.md)
+  
+  
 What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
+<a href='#installation-guide' id='installation-guide' class='anchor' aria-hidden='true'>Installation guide</a>
 
 #### MeshWallet Application
 - send, receive, transactions (history), validators (add, delete, monitor)
