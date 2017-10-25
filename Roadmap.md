@@ -1,14 +1,16 @@
 # MeshBank Software Roadmap
-This document outlines the development plan from a high level and will be updated as progress is made towards beta release. It should be noted that this roadmap applies only to the blockchain related software, after phase 4 is complete, a dedicated team will build on other tools and utilities such as wallets, and block explorers.
+This document outlines the development plan from a high level and will be updated as progress is made towards beta release. 
 
 **Everything contained in this document is in draft form and subject to change at any time and provided for information purposes only. MeshBank does not gaurantee the accuracy of the information contained in this roadmap and the information is provided "as is" with no representations or warranties, express or implied.**
 
 ## Phase 1 - Initiation
 ### Why this project?
-MeshBank aims to create the most powerful infrastructure for decentralized banking applications. Publically auditable contracts create a self-regulating, decentralized network of interconnected nodes. The infrastructure provides a scaleable, reliable, decentralized network with unrivaled transaction speed and security.
+MeshBank aims to create the most powerful infrastructure for decentralized banking applications. We are a blockchain based community that is entirely self governed by MeshDAO, the decentralized autonomous organization. MeshBank is entirely self governed by stakeholders, developers and those who utilize the platform. 
+
+July 4th 2017 I moved to Silicon Valley, California. Here I was approached with an incredibly difficult problem. I needed to make a bank transfer from my Wisconsin based bank, to a Wells fargo in the area in order to get a cashiers check to rent my apartment. While the banks only offered 72 hour ACH bank transfers
 
 ### Is it feasible?
-Yes. Utilizing Ethereum Virtual Machine (EVM) we can run applications on the gigantic distributed computer. 
+Yes. Utilizing Proof-of-stake mining technology
 
 ### Who are possible partners in the project?
 Banking institutions, credit card processors, financial companies, ecommerce platforms
@@ -133,7 +135,6 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 - [ ] Create Download installer OSX
 - [ ] Create Download installer Linux
 - [ ] Provide hash file, and pgp for each download file and upload to website "/get-mesh"
-
 - [ ] Implement zk-Snark update 
 
 ### MeshBank Wallet
