@@ -21,25 +21,18 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
    - Support various easily accessible payment methods: Cash deposits, Zelle (Bank transfers with supported banks)
    - Exchange various currencies (MESH/BTC, MESH/ETH, MESH/LTC, MESH/USD)
 
-      
-
-
-### What are the boundaries of this project?
-
 
 ## Phase 2 - Project Requirements
   
 ### Functional requirements
 Digital currency
 What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
+
 #### MeshBank Wallet Application
-- send, receive, transactions, masternodes
+- send, receive, transactions, manage validators
 
 #### MeshBank Core Application
 This is the main application that runs on the network masternodes. Masternode uptime, connection, and payouts can be monitored from any wallet. 
-
-
-
 
 #### Decentralized Autonomous Organization 
 
