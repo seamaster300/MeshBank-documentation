@@ -23,14 +23,16 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
    - Create offer to buy MESH/USD via Cash Deposit
      - User has 0 BTC, 0 MESH. Vendor must put up a deposit for the transaction (in MESH). This deposit insures the buyer that it is in the vendors best interest to operate fairly. Buyers can accept vendors sell offers. When this happens the buyer will need to follow their payment method's instructions. 
       
-** Due to the irreversable design of MESH transactions we need to only accept payments that have low risk for the vendors. Below are the payment methods we will launch with. **
+** Due to the irreversable design of MESH transactions we need to only accept payments that have low risk for the vendors. Below are the payment methods we will launch the decentralized exchange with. Once you own MESH, you will have uncensored privacy over your digital identity, instant and secure transactions, and you reserve your share in an incredibly powerful decentralized autonomous organization that is focused on becoming the best global banking institution. **
+
+
+
+Example: Buyer reviews vendor sell offer at price $10.00 per token, and they want 5 tokens. Total price is $50. They proceed according to their payment method.
 
 Cash Deposit: 
-Buyer accepts vendors sell offer at price $10.00 for 5 tokens. Total = $50.00. The buyer receives deposit account to make the cash deposit. At any local bank branch they take $50 CASH and have the teller deposit into that account. Once the vendor receives funds, the transaction is complete and MESH is released to the buyers wallet.
+The buyer receives deposit account to make the cash deposit. At any local bank branch they take $50 CASH and have the teller deposit into that account. Once the vendor receives funds, the transaction is complete and MESH is released to the buyers wallet. Research if we can hook into any bank accounts to help automate the release process for vendors. (Verify it was indeed cash deposit and that funds are in the account maybe use transaction description field. have them put unique code with "CASH DEPOSIT". This way the vendor can verify their unique transaction id via the transaction description field.)
 
-Western Union:
-
-Zelle:
+Zelle: If buyers bank account supports zelle transactions they are in luck. This is likely the easiest way to buy MESH, sending directly from their bank to a vendor, releasing MESH can take minutes. Buyer receives zelle vendor account information, they login to their zelle supported bank account and initiate a transfer to the vendor. Once the vendor receives payment the MESH is released.
 
 ### What are the boundaries of this project?
 
