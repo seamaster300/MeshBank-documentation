@@ -24,19 +24,20 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 
 ## Phase 2 - Project Requirements
   
-   ### Functional requirements
-         Digital currency
-         What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
+### Functional requirements
+Digital currency
+What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
 
-      #### MeshBank Wallet Application
-      - send, receive, transactions, manage validators
+#### MeshWallet Application
+- send, receive, transactions (history), validators (add, delete, monitor)
 
-      #### MeshBank Core Application
-      - This is the main application that runs on the network masternodes. Masternode uptime, connection, and payouts can be monitored from any wallet. 
+#### MeshCore Application (runs on validator nodes)
+- This is the main application that runs on the MeshBank validators. Masternode uptime, connection, and payouts can be monitored from any wallet. 
 
-#### Decentralized Autonomous Organization 
+#### MeshDAO (Decentralized Autonomous Organization)
+- To run a validator, you must hold a preset stake of tokens. Each validator that is online is allowed to vote on various items proposed to the DAO. Every block produces 12.5 new mesh tokens. 90% of the Tokens are dispursed to all qualified validators (Online > 24 hours, transacting fairly), the other 10% is awarded to the DAO. Validator owners are able to create and vote on proposals made in the DAO. A cost of 5 MESH has been assigned to assure meaningful quality proposals are presented to the DAO. Since all validator owners have significant stake held in MeshBank, it is in their best interest to vote for proposals that insure the success of the organization. 
 
-#### Decentralized Exchange
+#### MeshDEX (Decentralized Exchange)
 **Due to the irreversable design of MESH transactions we need to only accept payments that have low risk for the vendors. Below are the payment methods we will launch the decentralized exchange with. Once you own MESH, you will have uncensored privacy over your digital identity, instant and secure transactions, and you reserve your share in an incredibly powerful decentralized autonomous organization that is focused on becoming the best global banking institution.**
 
 Example: Buyer reviews vendor sell offer at price $10.00 per token, and they want 5 tokens. Total price is $50. They proceed according to their payment method.
