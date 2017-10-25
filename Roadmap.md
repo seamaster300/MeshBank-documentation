@@ -24,15 +24,15 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 
 ## Phase 2 - Project Requirements
   
-### Functional requirements
-Digital currency
-What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
+   ### Functional requirements
+         Digital currency
+         What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
 
-#### MeshBank Wallet Application
-- send, receive, transactions, manage validators
+      #### MeshBank Wallet Application
+      - send, receive, transactions, manage validators
 
-#### MeshBank Core Application
-This is the main application that runs on the network masternodes. Masternode uptime, connection, and payouts can be monitored from any wallet. 
+      #### MeshBank Core Application
+      - This is the main application that runs on the network masternodes. Masternode uptime, connection, and payouts can be monitored from any wallet. 
 
 #### Decentralized Autonomous Organization 
 
