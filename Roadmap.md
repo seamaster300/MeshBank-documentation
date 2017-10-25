@@ -17,8 +17,10 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 1. MeshBank is a decentralized autonomous organization that has real world employees that power the business. 
 2. Nodes can vote on monthly budget allocations through community self governance.
 3. Desktop application that allows users to send, receive, and invest in MeshBank's infrastructure (instant transactions, private "zk-snarks protocol", secure)
-4. P2P Exchange built into desktop application
-   - Support Zelle, Chase QuickPay, Cash Deposit, and US Postal Money Order
+4. P2P Exchange built into desktop application (See bisq fork)
+   - Support various easily accessible payment methods (Zelle - Partnered with (Ally Bank, Bank of America, Bank of Hawaii, Bank of the West, BB&T, BECU, Capital One, Citi, Citizens Bank, Comerica Bank, ConnectOne Bank, Dollar Bank, Fifth Third Bank, FirstBank, First Tech Federal Credit Union, First Tennessee Bank, First National Bank, Frederick County Bank, Frost Bank, HomeStreet Bank, JP Morgan Chase, KeyBank, M&T Bank, MB Financial Bank, Morgan Stanley, PNC Bank, SchoolsFirst Federal Credit Union, Star One Credit Union, SunTrust Bank, TD Bank, USAA, U.S. Bank, and Wells Fargo.), Cash Deposit, Western Union)
+   - Exchange various currencies (MESH/BTC, MESH/ETH, MESH/LTC, MESH/USD)
+   - Create offer to buy MESH/USD via Cash Deposit
 
 ### What are the boundaries of this project?
 
