@@ -21,11 +21,16 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
    - Support various easily accessible payment methods (Zelle - Partnered with (Ally Bank, Bank of America, Bank of Hawaii, Bank of the West, BB&T, BECU, Capital One, Citi, Citizens Bank, Comerica Bank, ConnectOne Bank, Dollar Bank, Fifth Third Bank, FirstBank, First Tech Federal Credit Union, First Tennessee Bank, First National Bank, Frederick County Bank, Frost Bank, HomeStreet Bank, JP Morgan Chase, KeyBank, M&T Bank, MB Financial Bank, Morgan Stanley, PNC Bank, SchoolsFirst Federal Credit Union, Star One Credit Union, SunTrust Bank, TD Bank, USAA, U.S. Bank, and Wells Fargo.), Cash Deposit, Western Union)
    - Exchange various currencies (MESH/BTC, MESH/ETH, MESH/LTC, MESH/USD)
    - Create offer to buy MESH/USD via Cash Deposit
-      - User has 0 BTC, 0 MESH. Vendor must put up a deposit for the transaction (in MESH). This deposit insures the buyer that it is in the vendors best interest to operate fairly. Buyers can accept vendors sell offers. When this happens the buyer will need to follow their payment method's instructions. 
-      #### Due to the irreversable design of MESH transactions we need to only accept payments that have low risk for the vendors. Below are the payment methods we will launch with.
-         - Cash Deposit: Buyer accepts vendors sell offer at price $10.00 for 5 tokens. Total = $50.00. The buyer receives deposit account to make the cash deposit. At any local bank branch they take $50 CASH and have the teller deposit into that account. Once the vendor receives funds, the transaction is complete and MESH is released to the buyers wallet.
-         - Western Union:
-         - Zelle:
+     - User has 0 BTC, 0 MESH. Vendor must put up a deposit for the transaction (in MESH). This deposit insures the buyer that it is in the vendors best interest to operate fairly. Buyers can accept vendors sell offers. When this happens the buyer will need to follow their payment method's instructions. 
+      
+** Due to the irreversable design of MESH transactions we need to only accept payments that have low risk for the vendors. Below are the payment methods we will launch with. **
+
+Cash Deposit: 
+Buyer accepts vendors sell offer at price $10.00 for 5 tokens. Total = $50.00. The buyer receives deposit account to make the cash deposit. At any local bank branch they take $50 CASH and have the teller deposit into that account. Once the vendor receives funds, the transaction is complete and MESH is released to the buyers wallet.
+
+Western Union:
+
+Zelle:
 
 ### What are the boundaries of this project?
 
