@@ -18,21 +18,11 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 2. Nodes can vote on monthly budget allocations through community self governance.
 3. Desktop application that allows users to send, receive, and invest in MeshBank's infrastructure (instant transactions, private "zk-snarks protocol", secure)
 4. P2P Exchange built into desktop application (See bisq fork)
-   - Support various easily accessible payment methods (Zelle - Partnered with (Ally Bank, Bank of America, Bank of Hawaii, Bank of the West, BB&T, BECU, Capital One, Citi, Citizens Bank, Comerica Bank, ConnectOne Bank, Dollar Bank, Fifth Third Bank, FirstBank, First Tech Federal Credit Union, First Tennessee Bank, First National Bank, Frederick County Bank, Frost Bank, HomeStreet Bank, JP Morgan Chase, KeyBank, M&T Bank, MB Financial Bank, Morgan Stanley, PNC Bank, SchoolsFirst Federal Credit Union, Star One Credit Union, SunTrust Bank, TD Bank, USAA, U.S. Bank, and Wells Fargo.), Cash Deposit, Western Union)
+   - Support various easily accessible payment methods: Cash deposits, Zelle (Bank transfers with supported banks)
    - Exchange various currencies (MESH/BTC, MESH/ETH, MESH/LTC, MESH/USD)
-   - Create offer to buy MESH/USD via Cash Deposit
-     - User has 0 BTC, 0 MESH. Vendor must put up a deposit for the transaction (in MESH). This deposit insures the buyer that it is in the vendors best interest to operate fairly. Buyers can accept vendors sell offers. When this happens the buyer will need to follow their payment method's instructions. 
+
       
-** Due to the irreversable design of MESH transactions we need to only accept payments that have low risk for the vendors. Below are the payment methods we will launch the decentralized exchange with. Once you own MESH, you will have uncensored privacy over your digital identity, instant and secure transactions, and you reserve your share in an incredibly powerful decentralized autonomous organization that is focused on becoming the best global banking institution. **
 
-
-
-Example: Buyer reviews vendor sell offer at price $10.00 per token, and they want 5 tokens. Total price is $50. They proceed according to their payment method.
-
-Cash Deposit: 
-The buyer receives deposit account to make the cash deposit. At any local bank branch they take $50 CASH and have the teller deposit into that account. Once the vendor receives funds, the transaction is complete and MESH is released to the buyers wallet. Research if we can hook into any bank accounts to help automate the release process for vendors. (Verify it was indeed cash deposit and that funds are in the account maybe use transaction description field. have them put unique code with "CASH DEPOSIT". This way the vendor can verify their unique transaction id via the transaction description field.)
-
-Zelle: If buyers bank account supports zelle transactions they are in luck. This is likely the easiest way to buy MESH, sending directly from their bank to a vendor, releasing MESH can take minutes. Buyer receives zelle vendor account information, they login to their zelle supported bank account and initiate a transfer to the vendor. Once the vendor receives payment the MESH is released.
 
 ### What are the boundaries of this project?
 
@@ -42,6 +32,27 @@ Zelle: If buyers bank account supports zelle transactions they are in luck. This
 ### Functional requirements
 Digital currency
 What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
+#### MeshBank Wallet Application
+- send, receive, transactions, masternodes
+
+#### MeshBank Core Application
+This is the main application that runs on the network masternodes. Masternode uptime, connection, and payouts can be monitored from any wallet. 
+
+
+
+
+#### Decentralized Autonomous Organization 
+
+#### Decentralized Exchange
+**Due to the irreversable design of MESH transactions we need to only accept payments that have low risk for the vendors. Below are the payment methods we will launch the decentralized exchange with. Once you own MESH, you will have uncensored privacy over your digital identity, instant and secure transactions, and you reserve your share in an incredibly powerful decentralized autonomous organization that is focused on becoming the best global banking institution.**
+
+Example: Buyer reviews vendor sell offer at price $10.00 per token, and they want 5 tokens. Total price is $50. They proceed according to their payment method.
+
+Cash Deposit: 
+The buyer receives deposit account to make the cash deposit. At any local bank branch they take $50 CASH and have the teller deposit into that account. Once the vendor receives funds, the transaction is complete and MESH is released to the buyers wallet. Research if we can hook into any bank accounts to help automate the release process for vendors. (Verify it was indeed cash deposit and that funds are in the account maybe use transaction description field. have them put unique code with "CASH DEPOSIT". This way the vendor can verify their unique transaction id via the transaction description field.)
+
+Zelle: If buyers bank account supports zelle transactions they are in luck. This is likely the easiest way to buy MESH, sending directly from their bank to a vendor, releasing MESH can take minutes. Buyer receives zelle vendor account information, they login to their zelle supported bank account and initiate a transfer to the vendor. Once the vendor receives payment the MESH is released.
+      -Zelle Supported Banks: Ally Bank, Bank of America, Bank of Hawaii, Bank of the West, BB&T, BECU, Capital One, Citi, Citizens Bank, Comerica Bank, ConnectOne Bank, Dollar Bank, Fifth Third Bank, FirstBank, First Tech Federal Credit Union, First Tennessee Bank, First National Bank, Frederick County Bank, Frost Bank, HomeStreet Bank, JP Morgan Chase, KeyBank, M&T Bank, MB Financial Bank, Morgan Stanley, PNC Bank, SchoolsFirst Federal Credit Union, Star One Credit Union, SunTrust Bank, TD Bank, USAA, U.S. Bank, and Wells Fargo.
 
 ### Operational requirements
 These are about how to run the system. Logging, startup/shutdown controls, monitoring, resource consumption, back up, availability etc.etc.
