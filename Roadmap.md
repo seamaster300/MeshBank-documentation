@@ -15,10 +15,11 @@ Yes.
 Banking institutions, credit card processors, financial companies, ecommerce platforms
 
 ### What should the results be?
-1. MeshBank is a decentralized autonomous organization that has real world employees that power the business. 
-2. Nodes can vote on monthly budget allocations through community self governance.
+1. MeshDAO is a decentralized autonomous organization that employs real world employees that power the business. 
+2. MeshWallet allows transacting instantly, privately, and securely
+3. MeshCore can be installed with one command on a clean server. MeshBank has staff and developers that are specifically trained to help customers setup MeshCore properly. If we setup the account, we manage that server indefinately for the client. 
 3. Desktop application that allows users to send, receive, and invest in MeshBank's infrastructure (instant transactions, private "zk-snarks protocol", secure)
-4. P2P Exchange built into desktop application (See bisq fork)
+4. MeshDEX (Late 2018)
    - Support various easily accessible payment methods: Cash deposits, Zelle (Bank transfers with supported banks)
    - Exchange various currencies (MESH/BTC, MESH/ETH, MESH/LTC, MESH/USD)
 
