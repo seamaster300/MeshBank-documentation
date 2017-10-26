@@ -6,14 +6,12 @@ This document outlines the development plan from a high level and will be update
 ## Phase 1 - Initiation
 ### Why this project?
 MeshBank aims to create the most powerful infrastructure for decentralized banking applications.  We are a blockchain based community that is self governed by MeshDAO, the decentralized autonomous banking organization. Anyone can create proposals that get reviewed by investors monthly, investors vote on if MeshDAO should, or should not fund the proposal.  Investors have weighted votes based on the number of eligible validators. 
-
 ### Is it feasible?
 Yes. 
-
 ### Who are possible partners in the project?
 Banking institutions, credit card processors, financial companies, ecommerce platforms
-
 ### What should the results be?
+0. MeshBank is the most powerful infrastructure in the world.
 1. MeshDAO is a group of investors that fairly control shares of the company. Those shares can be used to vote on decisions that MeshDAO makes.  that that power the business. 
 2. MeshWallet allows transacting instantly, privately, and securely
 3. MeshCore can be installed with one command on a clean server. MeshBank has staff and developers that are specifically trained to help customers setup MeshCore properly. If we setup the account, we manage that server indefinately for the client. 
@@ -22,16 +20,12 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
    - Support various easily accessible payment methods: Cash deposits, Zelle (Bank transfers with supported banks)
    - Exchange various currencies (MESH/BTC, MESH/ETH, MESH/LTC, MESH/USD)
 
-
 ## Phase 2 - Project Requirements
-  
 ### Functional requirements
-
-  1. [MeshWallet](#meshwallet-application)
-  2. [MeshCore](#meshcore-application-runs-on-validator-nodes)
-  3. [MeshDAO](#meshdao-decentralized-autonomous-organization)
-  4. [MeshDEX](#meshdex-decentralized-exchange)
- 
+1. [MeshWallet](#meshwallet-application)
+2. [MeshCore](#meshcore-application-runs-on-validator-nodes)
+3. [MeshDAO](#meshdao-decentralized-autonomous-organization)
+4. [MeshDEX](#meshdex-decentralized-exchange) 
 
 #### MeshWallet Application
 - create account, import account
@@ -65,7 +59,9 @@ These are about how to run the system. Logging, startup/shutdown controls, monit
 
   1. [MeshWallet](#)
    - Application run on Mac, Linux, and Windows (Late 2017)
-     - Store test
+     - download instructions (hash verification)
+     - install instructions (all platforms)
+     - 
    - IOS application (Late 2018)
   2. [MeshCore](#)
    - Application runs on fresh Ubuntu X install (Late 2017)
