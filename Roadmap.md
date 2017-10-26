@@ -28,9 +28,9 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
 ### Functional requirements
 
   1. [MeshWallet](#meshwallet-application)
-  2. [MeshCore](#meshcore-application)
-  3. [MeshDAO](#meshdao)
-  4. [MeshDEX](#meshdex)
+  2. [MeshCore](#meshcore-application-runs-on-validator-nodes)
+  3. [MeshDAO](#meshdao-decentralized-autonomous-organization)
+  4. [MeshDEX](#meshdex-decentralized-exchange)
  
 
 #### MeshWallet Application
