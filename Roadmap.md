@@ -5,7 +5,7 @@ This document outlines the development plan from a high level and will be update
 
 ## Phase 1 - Initiation
 ### Why this project?
-MeshBank aims to create the most powerful infrastructure for decentralized banking applications.  We are a blockchain based community that is entirely self governed by MeshDAO, the decentralized autonomous organization.  MeshBank is entirely self governed by investors, developers and those who utilize the platform.  Anyone can create proposals that get reviewed by investors monthly, investors vote on if MeshDAO should, or should not fund the proposal.  Investors have weighted votes based on the number of elegible validators. 
+MeshBank aims to create the most powerful infrastructure for decentralized banking applications.  We are a blockchain based community that is self governed by MeshDAO, the decentralized autonomous banking organization. Anyone can create proposals that get reviewed by investors monthly, investors vote on if MeshDAO should, or should not fund the proposal.  Investors have weighted votes based on the number of eligible validators. 
 
 ### Is it feasible?
 Yes. 
