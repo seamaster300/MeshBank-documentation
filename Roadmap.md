@@ -5,12 +5,11 @@ This document outlines the development plan from a high level and will be update
 
 ## Phase 1 - Initiation
 ### Why this project?
-MeshBank aims to create the most powerful infrastructure for decentralized banking applications. We are a blockchain based community that is entirely self governed by MeshDAO, the decentralized autonomous organization. MeshBank is entirely self governed by stakeholders, developers and those who utilize the platform. 
-
-July 4th 2017 I moved to Silicon Valley, California. Here I was approached with an incredibly difficult problem. I needed to make a bank transfer from my Wisconsin based bank, to a Wells fargo in the area in order to get a cashiers check to rent my apartment. While the banks only offered 72 hour ACH bank transfers
+MeshBank aims to create the most powerful infrastructure for decentralized banking applications. We are a blockchain based community that is entirely self governed by MeshDAO, the decentralized autonomous organization. MeshBank is entirely self governed by investors, developers and those who utilize the platform. Anyone can create proposals that get reviewed by investors monthly, investors vote on if MeshDAO should, or should not fund the proposal.  Investors have weighted votes based on the number of elegible validators. 
 
 ### Is it feasible?
-Yes. Utilizing Proof-of-stake mining technology
+Yes. 
+
 
 ### Who are possible partners in the project?
 Banking institutions, credit card processors, financial companies, ecommerce platforms
@@ -32,18 +31,7 @@ Banking institutions, credit card processors, financial companies, ecommerce pla
   2. [MeshCore](README.md)
   3. [MeshDAO](https://MeshBank.com/blog)
   4. [MeshDEX](https://MeshBank.com/blog)
-  5. [Whitepaper](TechnicalWhitepaper.md)
-  6. [Roadmap](Roadmap.md)
-  [Read our installation guide](#installation-guide)
-  
-  
-  1. [MeshBank website](https://MeshBank.com)
-  2. [Documentation](README.md)
-  3. [Blog](https://MeshBank.com/blog)
-  4. Slack
-  5. [Whitepaper](TechnicalWhitepaper.md)
-  6. [Roadmap](Roadmap.md)
-  
+ 
   
 What the system is supposed to do, process orders, send bills, regulate the temperature etc. etc.
 <a href='#installation-guide' id='installation-guide' class='anchor' aria-hidden='true'>Installation guide</a>
