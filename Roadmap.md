@@ -81,6 +81,8 @@ User interface
 Products:
 Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, all user interface etc.
 
+[DAO Voting Application](/images/dao-voting.png)
+
 # Founders
 ### developers
 -Summary
