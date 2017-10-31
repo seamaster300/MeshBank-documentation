@@ -16,64 +16,43 @@ Users, cryptocurrency enthusiasts, investors, banking institutions, credit card 
 A better way to save, spend, and invest money. 
 
 MeshBank value explained:
-The MeshBank core development team has built a platform that allows for instant and secure peer-to-peer transactions to occur on a decentralized network. MeshBank's network utilizes high performance servers called "Masternodes" that insure stability, performance, and security of the network. MeshBank's github repository includes the open source code for these masternodes here: [Masternodes Github](https://github.com/meshbank/meshbank)
+The MeshBank core development team has built a platform that allows for instant and secure peer-to-peer transactions to occur on a decentralized network. MeshBank's network utilizes high performance servers called "Masternodes" that insure stability, performance, and security of the network. 
+
+Everything that MeshBank core development team builds is open source: [Masternodes Github](https://github.com/meshbank/meshbank)
 
 ## Phase 2 - Project Requirements
-### Functional requirements
-1. [MeshWallet](#meshwallet-application)
-2. [MeshCore](#meshcore-application-runs-on-validator-nodes)
-3. [MeshDAO](#meshdao-decentralized-autonomous-organization)
-4. [MeshDEX](#meshdex-decentralized-exchange) 
+### Overview
+1. [MeshBank Wallet](#meshbank-wallet-application)
+2. [MeshBank Core](#meshbank-core-application-runs-on-validator-nodes)
+3. [MeshBank DAO](#meshbank-dao-decentralized-autonomous-organization)
+4. [MeshBank Website](#meshbank-website)
 
-#### MeshWallet Application
-- create account, import account
-- send, receive, transactions (history), validators (add, delete, monitor)
 
-#### MeshCore Application (runs on validator nodes)
-- This is the main application that runs on MeshBank validators. Validator uptime, connection, and payouts can be monitored from any wallet. 
+#### MeshBank Wallet Application
+- Send, receive, hold, monitor masternodes
+Q1 2018: Desktop gui application
+Q2 2018: Beta ios application (lite client?)
 
-#### MeshDAO (Decentralized Autonomous Organization)
-- To run a validator, you must hold a preset stake of tokens. Each validator that is online is allowed to vote on various items proposed to the DAO. Every block produces 12.5 new mesh tokens. 90% of the Tokens are dispursed to all qualified validators (Online > 24 hours, transacting fairly), the other 10% is awarded to the DAO. Validator owners are able to create and vote on proposals made in the DAO. A cost of 5 MESH has been assigned to assure meaningful quality proposals are presented to the DAO. Since all validator owners have significant stake held in MeshBank, it is in their best interest to vote for proposals that insure the success of the organization. 
+#### MeshBank Core Application (runs on masternodes)
+- This is the main application that runs on MeshBank masternodes. 
+- Remote management of masternodes via wallet application.
+Q4 2017: Release daemon, and cli
 
-#### MeshDEX (Decentralized Exchange)
-- MeshDEX can be used by anyone in the world to buy or sell MESH easily and safetly. 
+#### MeshBank DAO (Decentralized Autonomous Organization)
+- Budget Proposals can be created for 5 MESH
+- Masternodes can participate in MeshBank's self governance
+Q1 2018: Voting enabled
 
-Buy MESH: Buyer enters MeshDEX and selects "Buy MESH". Buyer then can browse current exchange rates, and proceed with purchasing MESH. After accepting the sellers offer they need to proceed with one of the payment methods below.
+#### MeshBank Website
+- Pages (Get MESH, Merchants, Network, Resources, Team, Blog, Development)
+- Listed Markets (Cryptopia, Bittrex, Kraken)
+- SEO
+Q4 2017: Build Website
 
-Sell MESH: Seller enters MeshDEX and selects "Sell MESH". Seller sets a sell price and selects the payment method(s) they will accept. (Offer a floating sell price off a few exchanges.) Once a buyer takes the offer, they will need to complete the payment and signal that this is complete, seller verifies payment, they release MESH to the buyer.
 
-**Due to the irreversable design of MESH transactions we need to only accept payments that have low risk for the vendors. Below are the payment methods we will launch the decentralized exchange with. Once you own MESH, you will have uncensored privacy over your digital identity, instant and secure transactions, and you reserve your share in the incredibly powerful MeshDAO community that is focused on becoming the best global banking institution.**
 
-Example: Buyer reviews vendor sell offer at price $10.00 per token, and they want 5 tokens.  Total price is $50.  They proceed according to their payment method.
 
-Cash Deposit: 
-The buyer receives deposit account to make the cash deposit.  At any local bank branch they take $50 CASH and have the teller deposit into that account.  Once the vendor receives funds, the transaction is complete and MESH is released to the buyers wallet. Research if we can hook into any bank accounts to help automate the release process for vendors.  (Verify it was indeed cash deposit and that funds are in the account maybe use transaction description field. have them put unique code with "CASH DEPOSIT".  This way the vendor can verify their unique transaction id via the transaction description field.)
 
-Zelle: If buyers bank account supports zelle transactions they are in luck. This is likely the easiest way to buy MESH, sending directly from their bank to a vendor, releasing MESH can take minutes.  Buyer receives zelle vendor account information, they login to their zelle supported bank account and initiate a transfer to the vendor. Once the vendor receives payment the MESH is released.
-      -Zelle Supported Banks: Ally Bank, Bank of America, Bank of Hawaii, Bank of the West, BB&T, BECU, Capital One, Citi, Citizens Bank, Comerica Bank, ConnectOne Bank, Dollar Bank, Fifth Third Bank, FirstBank, First Tech Federal Credit Union, First Tennessee Bank, First National Bank, Frederick County Bank, Frost Bank, HomeStreet Bank, JP Morgan Chase, KeyBank, M&T Bank, MB Financial Bank, Morgan Stanley, PNC Bank, SchoolsFirst Federal Credit Union, Star One Credit Union, SunTrust Bank, TD Bank, USAA, U.S. Bank, and Wells Fargo.
-
-### Operational requirements
-These are about how to run the system. Logging, startup/shutdown controls, monitoring, resource consumption, back up, availability etc.etc.
-
-  1. [MeshWallet](#)
-   - Application run on Mac, Linux, and Windows (Late 2017)
-     - download instructions (hash verification)
-     - install instructions (all platforms)
-     - 
-   - IOS application (Late 2018)
-  2. [MeshCore](#)
-   - Application runs on fresh Ubuntu X install (Late 2017)
-  3. [MeshDAO](#)
-   - Dapp (Early 2018)
-  4. [MeshDEX](#)
-   - Application run on Mac, Linux, and Windows (Late 2018)
-   - IOS application (Late 2018)
-
-### Technical requirements
-These are about how the system is built. Which language, which OS, standards to be adhered to etc.
-
-### Design limitations
-User interface
 
 ## Phase 3 - Design
 Products:
