@@ -5,20 +5,18 @@ This document outlines the development plan from a high level and will be update
 
 ## Phase 1 - Initiation
 ### Why this project?
-MeshBank aims to create the most powerful infrastructure for decentralized banking applications.  We are a blockchain based community that is self governed by MeshDAO, the decentralized autonomous banking organization. Stakeholders create proposals that MeshDAO votes on. MeshDAO is everyone connected to the network. As an organization MeshBank operates similar to a traditional business, however the decision makers are the investors, and all business development/marketing proposals allow for voting. If investors are not interested in voting they can opt out or choose to delegate their vote, often those delegate to the develepment team. 
+MeshBank aims to be the most user-friendly and most on-chain-scalable cryptocurrency in the world.
+Its network features instantly confirmed, double-spend-proof, optionally anonymous transactions, a self-governing & self-funding model through incentivized full nodes and a roadmap to scale to up to 400MB in blocksize
+MeshBank is a true Decentralized Autonomous Organization (DAO). Our network is able to hire and pay people to improve itself.
 ### Is it feasible?
 Yes. 
 ### Who are possible partners in the project?
-Banking institutions, credit card processors, financial companies, ecommerce platforms
-### What should the results be?
-0. MeshBank is the most powerful banking infrastructure in the world. 
-1. MeshDAO is a group of investors that fairly control shares of the company. Those shares can be used to vote on decisions that MeshDAO makes.  that that power the business. 
-2. MeshWallet allows transacting instantly, privately, and securely
-3. MeshCore can be installed with one command on a clean server. MeshBank has staff and developers that are specifically trained to help customers setup MeshCore properly. If we setup the account, we manage that server indefinately for the client. 
-3. Desktop application that allows users to send, receive, and invest in MeshBank's infrastructure (instant transactions, private "zk-snarks protocol", secure)
-4. MeshDEX (Late 2018)
-   - Support various easily accessible payment methods: Cash deposits, Zelle (Bank transfers with supported banks)
-   - Exchange various currencies (MESH/BTC, MESH/ETH, MESH/LTC, MESH/USD)
+Users, cryptocurrency enthusiasts, investors, banking institutions, credit card processors, financial companies, ecommerce platforms, transit systems.
+### What should the results be? 
+A better way to save, spend, and invest money. 
+
+MeshBank value explained:
+The MeshBank core development team has built a platform that allows for instant and secure peer-to-peer transactions to occur on a decentralized network. MeshBank's network utilizes high performance servers called "Masternodes" that insure stability, performance, and security of the network. MeshBank's github repository includes the open source code for these masternodes here: [Masternodes Github](https://github.com/meshbank/meshbank)
 
 ## Phase 2 - Project Requirements
 ### Functional requirements
