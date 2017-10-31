@@ -60,53 +60,13 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 
 ![DAO Voting Application](/images/dao-voting.png)
 
-# Founders
-### developers
--Summary
-  -Total development team: $ 1280K/year
-  -Managers
 
-- Senior Decentralized Application (DApp) Developer $110k/year
-  - Junior DApp Developer $70k/year
-  - Junior DApp Developer $70k/year
-  - Junior DApp Developer $70k/year
-  
-- Senior Blockchain Engineer $110k/year
-  - Junior Blockchain Engineer $70k/year
-  - Junior Blockchain Engineer $70k/year
-  - Junior Blockchain Engineer $70k/year
-  
-- Ethereum (Solidity) Developer $110k/year
-  - Junior Ethereum Developer $70k/year
-  - Junior Ethereum Developer $70k/year
-  - Junior Ethereum Developer $70k/year
- 
-- JavaScript Developer $110k/year
-  - Junior JavaScript Developer $70k/year
-  - Junior JavaScript Developer $70k/year
-  - Junior JavaScript Developer $70k/year
-### managers
-- 
-### founders
-- Me
-- CFO
-- CTO
-
-
-## Phase 4 - Development
+## Phase 4 - Development & Bounties
 - [x] Hire staff
 - [ ] Genesis of MeshBank token
-- [ ] Develop MeshBank's self regulating contracts
-- [ ] Develop Meshbank's solidity
-
-
-## Phase 5 - Implementation
-
-## Phase 6 - MeshBank DAO Bounties
-### MeshBank Website
-- [ ] Github Website
-- [ ] Create pages (get-mesh, merchants, network, resources, team, blog, evolution, lanaguage flag)
-- [ ] Link domain meshbank.com -> https://meshbank.github.io/MeshBankWeb
+- [ ] Develop MeshBank's Website
+      - [ ] Create pages (get-mesh, merchants, network, resources, team, blog, evolution, lanaguage flag)
+      - [ ] Link domain meshbank.com -> https://meshbank.github.io/MeshBankWeb
 
 ### MeshBank Core
 - [ ] Create MeshBank Core
@@ -125,7 +85,7 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 
 ### MeshBank DAO
 - MeshBank's allows stakeholders to vote on budget allocations. Budget requests by MeshBank's dev team will have our logo. 
-- [ ] Any user can create a proposal for 1000 USD
+- [ ] Any user can create a proposal for 5 MESH
       - The community budget can be spent on said proposals. Voting occurs every month at a set block.
 - [ ] Approval system:
       - Net Votes: TotalVoteYes minus TotalVoteNo 
