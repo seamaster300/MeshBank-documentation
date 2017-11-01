@@ -30,24 +30,24 @@ Everything that MeshBank core development team builds is open source: [Masternod
 
 #### MeshBank Wallet Application
 - Send, receive, hold, monitor masternodes
-Q1 2018: Desktop gui application
-Q2 2018: Beta ios application (lite client?)
+- Q1 2018: Desktop gui application
+- Q2 2018: Beta ios application (lite client?)
 
 #### MeshBank Core Application (runs on masternodes)
 - This is the main application that runs on MeshBank masternodes. 
 - Remote management of masternodes via wallet application.
-Q4 2017: Release daemon, and cli
+- Q4 2017: Release daemon, and cli
 
 #### MeshBank DAO (Decentralized Autonomous Organization)
 - Budget Proposals can be created for 5 MESH
 - Masternodes can participate in MeshBank's self governance
-Q1 2018: Voting enabled
+- Q1 2018: Voting enabled
 
 #### MeshBank Website
 - Pages (Get MESH, Merchants, Network, Resources, Team, Blog, Development)
 - Listed Markets (Cryptopia, Bittrex, Kraken)
 - SEO
-Q4 2017: Build Website
+- Q4 2017: Build Website
 
 ## Phase 3 - Design
 Products:
@@ -55,24 +55,29 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 ![DAO Voting Application](/images/dao-voting.png)
 
 ## Phase 4 - Development & Bounties
-### MeshBank
-- [ ] Develop MeshBank's Website
-- [ ] Create pages (get-mesh, merchants, network, resources, team, blog, development, lanaguage flag)
+### MeshBank General
+- [ ] Create Website including various pages (get-mesh, merchants, network, resources, team, blog, development, lanaguage flag)
 - [ ] Link domain meshbank.com -> https://meshbank.github.io/MeshBankWeb
 - [ ] Youtube videos (What is MeshBank, How to setup MeshBank Wallet, How to setup MeshBank Core (masternode), How to participate in MeshBank DAO)
 - [ ] Facebook Community (Weekly MeshBank Core Development team posts)
 - [ ] Twitter Community (Daily cryptocurrency posts, updates, news, ATH prices, legislature, etc.)
+- [ ] Slack Community (MeshBank dev team can discuss here)
 
-### MeshBank Core (masternode daemon)
+### MeshBank Core Wallet
 - [ ] Create MeshBank Core
 - [ ] Create Download installer Windows
 - [ ] Create Download installer OSX
 - [ ] Create Download installer Linux
 - [ ] Provide hash file, and pgp for each download file and upload to website "/get-mesh"
-- [ ] Implement zk-Snark update 
+- [ ] Implement zk-Snark (trustless) update 
 
-### MeshBank Wallet
-- [ ] Create wallet
+### MeshBank Mobile Wallet (Android/IOS)
+- [ ] Create mobile wallet Android
+- [ ] Create mobile wallet IOS
+
+
+### MeshBank daemon (masternode process)
+- [ ] Create meshbankd
 - [ ] Create Download installer Windows
 - [ ] Create Download installer OSX
 - [ ] Create Download installer Linux
@@ -83,13 +88,13 @@ Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, al
 - [ ] Any user can create a proposal for 5 MESH
       - The community budget can be spent on said proposals. Voting occurs every month at a set block.
 - [ ] Approval system:
-      - Net Votes: TotalVoteYes minus TotalVoteNo 
-        - must be greater than CountActiveMasternodes/10 --10% active masternodes
-      - Monthly Amount: Budget priority order by net votes. 
-      - proposal must be over 24 hours old
-      - proposal must be submitted 3 days before budget allocated
+- Net Votes: TotalVoteYes minus TotalVoteNo 
+- must be greater than CountActiveMasternodes/10 --10% active masternodes
+- Monthly Amount: Budget priority order by net votes. 
+- proposal must be over 24 hours old
+- proposal must be submitted 3 days before budget allocated
 - [ ] Budgets Proposals
-      - Datatable (title, owner, payment, yes, no, abstain, net votes, % of vote, monthly amount, total budget requested, actual budget allocated)
+- Datatable (title, owner, payment, yes, no, abstain, net votes, % of vote, monthly amount, total budget requested, actual budget allocated)
 
 
 ### MeshBank Products
