@@ -49,26 +49,21 @@ Q1 2018: Voting enabled
 - SEO
 Q4 2017: Build Website
 
-
-
-
-
-
 ## Phase 3 - Design
 Products:
 Dioramas, sketches, flow charts, site trees, HTML screen designs, prototypes, all user interface etc.
-
 ![DAO Voting Application](/images/dao-voting.png)
 
-
 ## Phase 4 - Development & Bounties
-- [x] Hire staff
-- [ ] Genesis of MeshBank token
+### MeshBank
 - [ ] Develop MeshBank's Website
-      - [ ] Create pages (get-mesh, merchants, network, resources, team, blog, evolution, lanaguage flag)
-      - [ ] Link domain meshbank.com -> https://meshbank.github.io/MeshBankWeb
+- [ ] Create pages (get-mesh, merchants, network, resources, team, blog, development, lanaguage flag)
+- [ ] Link domain meshbank.com -> https://meshbank.github.io/MeshBankWeb
+- [ ] Youtube videos (What is MeshBank, How to setup MeshBank Wallet, How to setup MeshBank Core (masternode), How to participate in MeshBank DAO)
+- [ ] Facebook Community (Weekly MeshBank Core Development team posts)
+- [ ] Twitter Community (Daily cryptocurrency posts, updates, news, ATH prices, legislature, etc.)
 
-### MeshBank Core
+### MeshBank Core (masternode daemon)
 - [ ] Create MeshBank Core
 - [ ] Create Download installer Windows
 - [ ] Create Download installer OSX
