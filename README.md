@@ -23,7 +23,7 @@ The code is currently under rapid development. Please follow the download link b
 
 
 ## Table of contents
-1. [Overview](#Overview)
+1. [Overview](#overview)
 2. Opportunity
 3. Problem
 4. Solution
