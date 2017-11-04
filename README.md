@@ -42,18 +42,18 @@ What is a cryptocurrency?
 What is the blockchain?
 
 Demonstrate:
-What exactly does MeshBank do?
-What industry are you in?
-Is this a novel idea?
+- What exactly does MeshBank do?
+- What industry are you in?
+- Is this a novel idea?
 
 ## Opportunity
 What is happening in this market?
 Why now?
 
 Demonstrate:
-Explosive market sectors
-Confusion and ambiguity in the market
-Thoroughness
+- Explosive market sectors
+- Confusion and ambiguity in the market
+- Thoroughness
 
 ## Problem
 What are you trying to solve?
