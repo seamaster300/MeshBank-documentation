@@ -1,4 +1,5 @@
-# MeshBank - The most powerful infrastructure for decentralized banking applications
+# MeshBank is the most powerful global payment infrastructure with a system of community based decentralized governance.
+The most powerful infrastructure for decentralized banking applications
 
 Welcome to the MeshBank source code repository! MeshBank software enables developers to create and deploy high performance, horizontally scalable, blockchain infrastructure upon which decentralized banking applications can be built.
 
