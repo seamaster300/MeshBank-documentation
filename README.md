@@ -8,12 +8,18 @@ The code is currently under rapid development. The official stable releases are 
 [MeshBank Mining Software](#)
 
 ## Resources
-  1. [MeshBank website](https://MeshBank.com)
-  2. [Documentation](README.md)
-  3. [Blog](https://MeshBank.com/blog)
-  4. Slack
-  5. [Whitepaper](TechnicalWhitepaper.md)
-  6. [Roadmap](Roadmap.md)
+1. [Getting Started](guide.md)
+2. [Downloads](downloads.md)
+3. [Documentation](documentation.md)
+4. [Blog](blog.md)
+5. [Technical Briefing](technical.md)
+6. [Network Stats](gettingstarted.md)
+7. [Voting](voting.md)
+8. [Media](media.md)
+
+## Community
+1. [Slack](http://slack.com)
+
 
 ## Table of contents
 1. Overview
