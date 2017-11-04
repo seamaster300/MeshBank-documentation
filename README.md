@@ -1,11 +1,8 @@
-# MeshBank is the most powerful global payment infrastructure with a system of community based governance integrated into its blockchain.
+# MeshBank is the most powerful global payment infrastructure with a system of community based governance integrated into its blockchain. 
 
 Welcome to the MeshBank source code repository! MeshBank software enables developers to create and deploy high performance, horizontally scalable, blockchain infrastructure.
 
-The code is currently under rapid development. The official stable releases are linked below:
-## Official Software Releases
-- [MeshBank MacOS Wallet](#)
-- [MeshBank Mining Software](#)
+The code is currently under rapid development. Please follow the download link below for the most recent stable software releases. 
 
 ## Resources
 1. [Getting Started](guide.md)
@@ -18,7 +15,11 @@ The code is currently under rapid development. The official stable releases are 
 8. [Media](media.md)
 
 ## Community
-1. [Slack](http://slack.com)
+1. [Slack](http://slack.com/meshbank)
+2. [Reddit](http://reddit.com/meshbank)
+3. [Youtube](http://youtube.com/meshbank)
+4. [Facebook](http://facebook.com/meshbank)
+5. [Twitter](http://twitter.com/meshbank)
 
 
 ## Table of contents
