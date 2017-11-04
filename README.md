@@ -37,22 +37,32 @@ The code is currently under rapid development. Please follow the download link b
 
   
 ## Overview
-- What is MeshBank? (Elevator pitch)
-- What is a cryptocurrency?
-- What is the blockchain?
+What is MeshBank? (Elevator pitch)
+What is a cryptocurrency?
+What is the blockchain?
+
+Demonstrate:
+What exactly does MeshBank do?
+What industry are you in?
+Is this a novel idea?
 
 ## Opportunity
-- What is happening in this market?
-- Why now?
+What is happening in this market?
+Why now?
+
+Demonstrate:
+Explosive market sectors
+Confusion and ambiguity in the market
+Thoroughness
 
 ## Problem
--What are you trying to solve?
+What are you trying to solve?
 
 ## Solution
--What are you doing about it?
+What are you doing about it?
 
 ## Traction
-- What evidence do you have that shows this will be successful?
+What evidence do you have that shows this will be successful?
 
 ## Market
 Who are your customers?
