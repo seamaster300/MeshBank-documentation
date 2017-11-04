@@ -24,10 +24,53 @@ The code is currently under rapid development. Please follow the download link b
 
 ## Table of contents
 1. Overview
-2. Setting up a build/development environment
+2. Opportunity
+3. Problem
+4. Solution
+5. Traction
+6. Market
+7. Competition
+8. Business Model
+9. Team
+10. Use of Funds
+11. FAQ
 
   
 ## Overview
+- What is MeshBank? (Elevator pitch)
+- What is a cryptocurrency?
+- What is the blockchain?
+
+## Opportunity
+- What is happening in this market?
+- Why now?
+
+## Problem
+-What are you trying to solve?
+
+## Solution
+-What are you doing about it?
+
+## Traction
+- What evidence do you have that shows this will be successful?
+
+## Market
+Who are your customers?
+
+## Competition
+Who or what will steal your customers?
+
+## Business Model
+How will you make money?
+
+## Team
+Who is going to pull this off?
+
+## Use of Funds
+What do you want and why?
+
+## FAQ
+
 
   
 
