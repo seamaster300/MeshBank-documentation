@@ -33,7 +33,7 @@ The code is currently under rapid development. Please follow the download link b
 8. [Business Model](#business-model)
 9. [Team](#team)
 10. [Use of Funds](#use-of-funds)
-11. [FAQ]](#faq)
+11. [FAQ](#faq)
 
   
 ## Overview
