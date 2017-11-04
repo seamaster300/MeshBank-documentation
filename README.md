@@ -4,8 +4,8 @@ Welcome to the MeshBank source code repository! MeshBank software enables develo
 
 The code is currently under rapid development. The official stable releases are linked below:
 ## Official Software Releases
-[MeshBank MacOS Wallet](#)
-[MeshBank Mining Software](#)
+- [MeshBank MacOS Wallet](#)
+- [MeshBank Mining Software](#)
 
 ## Resources
 1. [Getting Started](guide.md)
