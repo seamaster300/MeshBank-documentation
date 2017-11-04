@@ -37,49 +37,102 @@ The code is currently under rapid development. Please follow the download link b
 
   
 ## Overview
-What is MeshBank? (Elevator pitch)
-What is a cryptocurrency?
-What is the blockchain?
+- What is MeshBank? (Elevator pitch)
+- What is a cryptocurrency?
+- What is the blockchain?
 
-Demonstrate:
+- Questions to answer:
 - What exactly does MeshBank do?
 - What industry are you in?
 - Is this a novel idea?
 
 ## Opportunity
-What is happening in this market?
-Why now?
+- What is happening in this market?
+- Why now?
 
-Demonstrate:
-- Explosive market sectors
-- Confusion and ambiguity in the market
-- Thoroughness
+- Questions to answer:
+- What trends is your company riding?
+- How big is the market?
+- How big can your company be?
+- What are the macro- and micro-trends that your company will be riding?
 
 ## Problem
-What are you trying to solve?
+- What are you trying to solve?
+
+- Questions to answer:
+- What is the problem?
+- How big is the problem?
+- Why does the problem exist?
+- How is the problem currently being addressed?
 
 ## Solution
-What are you doing about it?
+- What are you doing about it?
+
+- Questions to answer:
+- Does it solve the customers problems like magic?
+- Is the customer going to crave this product?
+- What will the customers life be like once the problem is solved?
+- How are you going to pull this off?
+- Is it awesome?
+
 
 ## Traction
 What evidence do you have that shows this will be successful?
 
+- Questions to answer:
+- Is there massive growth?
+- Where are the venture's assumptions proving true?
+- What is the strategy to reach and close more customers?
+
 ## Market
 Who are your customers?
+
+- Questions to answer:
+- Who is your customer(s)
+- How will you reach the customer?
+- What is the acuisition cost per customer?
+- Is your customer willing to pay for your product or service?
 
 ## Competition
 Who or what will steal your customers?
 
+- Questions to answer:
+- Who are your primary and secondary competitors and in what ways do they compete for your customers?
+- Are there any unknown or potential competitors that would have a better advantage than you if they entered the market?
+- Do you displace commonly used companies?
+- How will you disrupt the current competitive landscape?
+- Are you faster, cheaper, better?
+- Why wont an incumbent rip off your product off and roll it out faster than you can?
+
 ## Business Model
 How will you make money?
+
+- Questions to answer:
+- Can you acquire customers for less than a third of their lifetime value?
+- What is your cmonthly burn rate-how much money are you spending a month?
+- Are the revenue projections reasonable?
+- Are costs legitimate?
 
 ## Team
 Who is going to pull this off?
 
+- Questions to answer:
+- Why are oyu the right people for the job?
+- Is this team sufficient to accomplish the goal?
+- Are there others who need to be hired?
+
 ## Use of Funds
-What do you want and why?
+- What do you want and why?
+
+- Questions to answer:
+- What size and type of investments are you looking for?
+- How will you spend it?
+- What will you accomplish?
+- Who else is likely to be participating in this investment round?
 
 ## FAQ
+- What led to the development of MeshBank?
+
 
 
   
