@@ -38,10 +38,10 @@ The code is currently under rapid development. Please follow the download link b
   
 ## Overview
 What is MeshBank?
-- MeshBank is the most powerful global payment infrastructure with a system of community based governance built on a blockchain. MeshBank aims to modernize the way individuals interact with digital currency by creating a frictionless experience based on the principles of decentralization, effeciency, security, reliability, and transparency. The infrastructure allows instant, cross-boarder, cross-chain payments to occur without the need for legacy third party intermediaries. 
+- MeshBank is the most powerful global payment infrastructure with a system of community based governance built on a blockchain. MeshBank aims to modernize the way individuals interact with digital currency by creating a frictionless experience based on the principles of decentralization, effeciency, security, reliability, and transparency. The infrastructure enables instant, cross-boarder, cross-chain payments to occur without the need for legacy third party intermediaries. 
 
-- What is a cryptocurrency?
-- What is the blockchain?
+Features:
+- Proof-of-Stake
 
 - Questions to answer:
 - What exactly does MeshBank do?
