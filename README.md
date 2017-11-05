@@ -38,10 +38,7 @@ The code is currently under rapid development. Please follow the download link b
   
 ## Overview
 What is MeshBank?
-- MeshBank is the most powerful global payment infrastructure with a system of community based governance built on a blockchain. MeshBank aims to modernize the way individuals interact with digital currency by creating a frictionless experience based on the principles of decentralization, effeciency, security, reliability, and transparency. The infrastructure enables instant, cross-boarder, cross-chain payments to occur without the need for legacy third party intermediaries. 
-
-Features:
-- Proof-of-Stake
+- MeshBank is the most powerful global payment infrastructure with a system of community based governance built on a blockchain. MeshBank aims to modernize the way individuals interact with digital currency by creating a frictionless experience based on the principles of decentralization, effeciency, security, reliability, and transparency. The infrastructure enables instant, secure, cross-boarder, cross-chain payments to occur without the need for legacy third party intermediaries. 
 
 - Questions to answer:
 - What exactly does MeshBank do?
@@ -50,6 +47,7 @@ Features:
 
 ## Opportunity
 - What is happening in this market?
+Enterprises and individuals have growing demand for a faster and more secure payment methods. 
 - Why now?
 
 - Questions to answer:
@@ -60,7 +58,7 @@ Features:
 
 ## Problem
 - What are you trying to solve?
-Slow settlement (3-5 days), 
+Centralization of asset management, unreliable payment networks, ineffecient legacy infrastructure, insecure banking standards, 
 
 - Questions to answer:
 - What is the problem?
@@ -109,6 +107,7 @@ Who or what will steal your customers?
 
 ## Business Model
 How will you make money?
+- Blockchain-based cryptographic tokens appreciate in value as network utilization increases. The MeshBank foundation is community driven 
 
 - Questions to answer:
 - Can you acquire customers for less than a third of their lifetime value?
