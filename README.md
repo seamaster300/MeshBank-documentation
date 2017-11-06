@@ -47,7 +47,8 @@ What is MeshBank?
 
 ## Opportunity
 - What is happening in this market?
-Enterprises and individuals have growing demand for a faster and more secure payment methods. 
+One of the fundamental qualities of blockchain technology is the secure decentralization of public, verifable ledgers. Utilizing this technologies allows returning control of user data,  to the individual
+Enterprises and individuals have growing demand for a faster, and more secure payment methods at a low cost. Blockchain technology shows extroadinary potential in disrupting industries including; financial services, foreign currency exchanges, supply chain management, retain and ecommerce advertising, identity management. 
 - Why now?
 
 - Questions to answer:
